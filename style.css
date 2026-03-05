@@ -15,19 +15,19 @@ body{
     box-sizing: border-box;
 }
 .LeftAlign{
-    background-color: green;
-    border: 3px solid yellow;
+    background-color: gold;
+    border: 3px solid gray;
 
 }
     
 .CenterAlign{
-    background-color: crimson;
+    background-color: red;
     border: 3px solid blue;
 
 }
 .RightAlign{
-    background-color: black;
-    border: 3px solid white;
+    background-color: purple;
+    border: 3px solid greenyellow;
 }
 
 .button1{
